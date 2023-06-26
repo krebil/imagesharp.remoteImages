@@ -1,5 +1,4 @@
-using remoteImages.Extensions;
-using RemoteImages.Options;
+using RemoteImages.Extensions;
 using SixLabors.ImageSharp.Web.DependencyInjection;
 using SixLabors.ImageSharp.Web.Providers;
 using Umbraco.Cms.Imaging.ImageSharp.ImageProcessors;

@@ -1,6 +1,6 @@
 using SixLabors.ImageSharp.Web.DependencyInjection;
 
-namespace remoteImages.Extensions;
+namespace RemoteImages.Extensions;
 
 public static class ImageSharpBuilderExtensions
 {

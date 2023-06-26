@@ -2,7 +2,7 @@ using Microsoft.Extensions.DependencyInjection;
 using RemoteImages.Options;
 using RemoteImages.Services;
 
-namespace remoteImages.Extensions;
+namespace RemoteImages.Extensions;
 
 public static class ServiceCollectionExtensions
 {

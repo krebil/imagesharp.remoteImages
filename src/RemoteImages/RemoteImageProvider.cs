@@ -5,7 +5,7 @@ using RemoteImages.Services;
 using SixLabors.ImageSharp.Web.Providers;
 using SixLabors.ImageSharp.Web.Resolvers;
 
-namespace remoteImages;
+namespace RemoteImages;
 
 public class RemoteImageProvider : IImageProvider
 {

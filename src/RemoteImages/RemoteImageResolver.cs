@@ -2,7 +2,7 @@ using System.Net;
 using SixLabors.ImageSharp.Web;
 using SixLabors.ImageSharp.Web.Resolvers;
 
-namespace remoteImages;
+namespace RemoteImages;
 
 public class RemoteImageResolver: IImageResolver
 {
